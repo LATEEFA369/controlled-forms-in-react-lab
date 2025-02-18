@@ -106,7 +106,7 @@ button:focus-visible {
     background-color: rgb(155, 155, 155);
     color: black;
   }
-  :root {
+  /* :root {
     color: #213547;
     background-color: #ffffff;
   }
@@ -115,5 +115,5 @@ button:focus-visible {
   }
   button {
     background-color: #f9f9f9;
-  }
+  } */
 }
